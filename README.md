@@ -1,6 +1,6 @@
 # postgres
 
-The docker-compose.yml file defines two services, Postgres and pgAdmin for. The .env file defines all variables, this should be updated to reflect your requirements. 
+The docker-compose.yml file defines two services, Postgres and pgAdmin. The .env file defines all variables, this should be updated to reflect your requirements. 
 
 To run the container, type the below command from the folder where youur docker-compose.yml file is located:
 
